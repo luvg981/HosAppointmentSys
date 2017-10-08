@@ -20,7 +20,7 @@
 				<div id="lable1">Age</div>
 				<div id="lable1">Mobile</div>
 				<div id="lable1">Email</div>
-				<div id="lable1">Dept. </div>
+				<div id="lable1">Department </div>
 				
 			</div>
 
